@@ -195,4 +195,3 @@ Please mention [issues](https://github.com/luolongfei/freenom/issues) to inform 
 ### 🥝  Open source agreement
 [MIT](https://opensource.org/licenses/mit-license.php)
 
-#t
